@@ -1,1 +1,1 @@
-# jeo
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD) https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
